@@ -1,3 +1,9 @@
+---
+layout:
+  pagination:
+    visible: false
+---
+
 # Multi-Region Cloud Resilience and Automated DevSecOps Engineering Standards
 
 Enterprise production environments demand zero-trust architectural boundaries, multi-region redundancy, and continuous automated compliance enforcement. As organizations scale distributed microservices across hybrid cloud providers, failure domain isolation and proactive disaster recovery testing become primary indicators of operational maturity.
