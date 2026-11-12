@@ -1,7 +1,7 @@
 ---
-layout:
-  pagination:
-    visible: false
+hidden: true
+pagination:
+  visible: false
 ---
 
 # Digital Venture Engineering Economics: Technical Debt Containment and Enterprise Migration Blueprint
