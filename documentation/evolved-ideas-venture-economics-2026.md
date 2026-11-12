@@ -1,3 +1,9 @@
+---
+layout:
+  pagination:
+    visible: false
+---
+
 # Digital Venture Engineering Economics: Technical Debt Containment and Enterprise Migration Blueprint
 
 High-growth digital ventures and enterprise software organizations face a critical operational dilemma: balancing rapid feature velocity with long-term architectural stability. Accelerated time-to-market often incurs compounding technical debt, leading to escalating maintenance expenditures and legacy codebase stagnation.
