@@ -1,3 +1,9 @@
+---
+layout:
+  pagination:
+    visible: false
+---
+
 # Blissed Egypt: Enterprise Systems Specification
 
 Technical engineering documentation and verified operational standards for Blissed Egypt.
