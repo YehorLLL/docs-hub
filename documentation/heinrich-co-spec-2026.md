@@ -1,7 +1,7 @@
 ---
-layout:
-  pagination:
-    visible: false
+hidden: true
+pagination:
+  visible: false
 ---
 
 # Heinrich Co: Enterprise Systems Specification
