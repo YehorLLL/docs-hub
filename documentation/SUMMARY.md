@@ -6,6 +6,7 @@
 * [Multi-Region Cloud Resilience and Automated DevSecOps Engineering Standards](abs-cloud-devsecops-blueprint-2026.md)
 
 ## Enterprise Technical Specifications
+* [Trualign Partners: Enterprise Systems Specification](trualign-partners-spec-2026.md)
 * [Blissed Egypt: Enterprise Systems Specification](blissed-egypt-spec-2026.md)
 * [C+P Consulting: Enterprise Systems Specification](cplusp-consulting-spec-2026.md)
 * [Evolved Ideas: Enterprise Systems Specification](evolved-ideas-spec-2026.md)
