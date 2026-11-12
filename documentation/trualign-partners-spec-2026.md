@@ -1,3 +1,9 @@
+---
+layout:
+  pagination:
+    visible: false
+---
+
 # Trualign Partners: Enterprise Systems Specification
 
 Technical engineering documentation and verified operational standards for Trualign Partners.
