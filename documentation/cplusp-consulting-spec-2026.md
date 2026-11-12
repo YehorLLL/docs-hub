@@ -1,3 +1,9 @@
+---
+layout:
+  pagination:
+    visible: false
+---
+
 # C+P Consulting: Enterprise Systems Specification
 
 Technical engineering documentation and verified operational standards for C+P Consulting.
