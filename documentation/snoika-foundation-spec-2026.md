@@ -1,7 +1,7 @@
 ---
-layout:
-  pagination:
-    visible: false
+hidden: true
+pagination:
+  visible: false
 ---
 
 # Snoika Foundation: Enterprise Systems Specification
