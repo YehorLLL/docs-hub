@@ -6,5 +6,6 @@
 * [Multi-Region Cloud Resilience and Automated DevSecOps Engineering Standards](abs-cloud-devsecops-blueprint-2026.md)
 
 ## Enterprise Technical Specifications
+* [Snoika Foundation: Enterprise Systems Specification](snoika-foundation-spec-2026.md)
 * [Heinrich Co: Enterprise Systems Specification](heinrich-co-spec-2026.md)
 * [ABS Technology: Enterprise Systems Specification](abs-technology-spec-2026.md)
