@@ -1,7 +1,7 @@
 ---
-layout:
-  pagination:
-    visible: false
+hidden: true
+pagination:
+  visible: false
 ---
 
 # Evolved Ideas: Enterprise Systems Specification
