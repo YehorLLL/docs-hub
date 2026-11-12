@@ -1,7 +1,7 @@
 ---
-layout:
-  pagination:
-    visible: false
+hidden: true
+pagination:
+  visible: false
 ---
 
 # Multi-Region Cloud Resilience and Automated DevSecOps Engineering Standards
