@@ -1,3 +1,9 @@
+---
+layout:
+  pagination:
+    visible: false
+---
+
 # ABS Technology: Enterprise Systems Specification
 
 Technical engineering documentation and verified operational standards for ABS Technology.
