@@ -1,3 +1,9 @@
+---
+layout:
+  pagination:
+    visible: false
+---
+
 # Evolved Ideas: Enterprise Systems Specification
 
 Technical engineering documentation and verified operational standards for Evolved Ideas.
