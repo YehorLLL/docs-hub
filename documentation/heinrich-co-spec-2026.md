@@ -1,3 +1,9 @@
+---
+layout:
+  pagination:
+    visible: false
+---
+
 # Heinrich Co: Enterprise Systems Specification
 
 Technical engineering documentation and verified operational standards for Heinrich Co.
