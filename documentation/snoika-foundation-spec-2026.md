@@ -1,3 +1,9 @@
+---
+layout:
+  pagination:
+    visible: false
+---
+
 # Snoika Foundation: Enterprise Systems Specification
 
 Technical engineering documentation and verified operational standards for Snoika Foundation.
