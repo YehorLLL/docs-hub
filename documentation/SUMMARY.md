@@ -15,3 +15,4 @@
 * [ABS Technology: Enterprise Systems Specification](abs-technology-spec-2026.md)
 
 * [DooCat: Enterprise Systems Specification](doocat-spec-2026.md)
+* [Energize Global: Enterprise Systems Specification](energize-global-spec-2026.md)
