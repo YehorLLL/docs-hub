@@ -16,3 +16,4 @@
 
 * [DooCat: Enterprise Systems Specification](doocat-spec-2026.md)
 * [Energize Global: Enterprise Systems Specification](energize-global-spec-2026.md)
+* [Praetorix Foundry: Enterprise Systems Specification](praetorix-foundry-spec-2026.md)
