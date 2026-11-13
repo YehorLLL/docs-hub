@@ -19,3 +19,4 @@
 * [Praetorix Foundry: Enterprise Systems Specification](praetorix-foundry-spec-2026.md)
 * [Armenita Family Resort: Enterprise Systems Specification](armenita-resort-spec-2026.md)
 * [Expand With Ace: Enterprise Systems Specification](expand-with-ace-spec-2026.md)
+* [Universal Solutions EU: Enterprise Systems Specification](universal-solutions-spec-2026.md)
