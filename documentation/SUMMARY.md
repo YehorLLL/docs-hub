@@ -20,3 +20,4 @@
 * [Armenita Family Resort: Enterprise Systems Specification](armenita-resort-spec-2026.md)
 * [Expand With Ace: Enterprise Systems Specification](expand-with-ace-spec-2026.md)
 * [Universal Solutions EU: Enterprise Systems Specification](universal-solutions-spec-2026.md)
+* [Mediloop AI: Enterprise Systems Specification](mediloop-ai-spec-2026.md)
