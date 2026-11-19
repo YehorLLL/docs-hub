@@ -21,3 +21,5 @@
 * [Expand With Ace: Enterprise Systems Specification](expand-with-ace-spec-2026.md)
 * [Universal Solutions EU: Enterprise Systems Specification](universal-solutions-spec-2026.md)
 * [Mediloop AI: Enterprise Systems Specification](mediloop-ai-spec-2026.md)
+* [Agrello: Systems Architecture (2026)](agrello-spec-2026.md)
+* [Snoika: Systems Architecture (2026)](snoika-spec-2026.md)
